@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fabiopalazzi
 - 👀 I’m interested in computer programming, especially discovering, learning and applying new things
-- 👨🏼‍💻 I'm full-stack developer developer
+- 👨🏼‍💻 I'm full-stack developer
 - 📚 I’m currently studying at UNIBG university
